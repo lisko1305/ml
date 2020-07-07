@@ -1,0 +1,156 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 90px;
+  margin-top: 50px;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  line-height: 2;
+}
+
+hr {
+  border: dotted #A6E3E9 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+.top-container {
+  background-color: #A6E3E9;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.mare-img {
+  width: 400px;
+  height: 500px;
+}
+
+.skill-row{
+width: 50%;
+margin: auto;
+margin-top: 100px;
+margin-bottom: 100px;
+text-align: left;
+
+}
+
+
+.pro {
+  text-decoration: underline;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.contact-message {
+   width: 40%;
+   margin: auto;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.top-air {
+  position: absolute;
+  width: 210px;
+  height: 180px;
+  right: 100px;
+  top: 200px;
+}
+
+.bottom-zep {
+  position: absolute;
+  width: 200px;
+  height: 170px;
+  left: 400px;
+  bottom: 800px;
+}
+
+.back-city {
+  width: 100%;
+    height: auto;
+
+}
+
+.code-img {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.burger-img {
+  width: 20%;
+float: right;
+margin-left: 30px;
+
+}
+
+.btn {
+	box-shadow: 1px 0px 19px 6px #f0f7fa;
+	background:linear-gradient(to bottom, #33bdef 5%, #1e6680 100%);
+	background-color:#33bdef;
+	border-radius:39px;
+	border:2px solid #0084d6;
+	display:inline-block;
+	cursor:pointer;
+	color:#f5e4f5;
+	font-family:Arial;
+	font-size:23px;
+	font-weight:bold;
+	padding:11px 32px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #21232b;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #1e6680 5%, #33bdef 100%);
+	background-color:#1e6680;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
